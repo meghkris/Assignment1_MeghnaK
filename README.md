@@ -13,6 +13,8 @@ Improvements: <br />
 I did not make any improvements to the actual model as I got a pretty good accuracy and precision value when testing with the given data in Assignment1.zip.
 
 How To Run: <br />
+Make sure to compile all the java files and run Main.java which are all in a package together and can be found under Assignment1 - SpamFilter/src/sample/ after downloading and extracting the zip folder. The given data folder for Assignment 1 is also under the src folder. This program was created as an IntelliJ project so opening up Assignment1 - SpamFilter through IntelliJ and then building and running Main will be easier.
+
 A window will pop up with two buttons: "Choose Directory" and "Display Results". First click "Choose Directory" and select the folder that contains the training and testing folders which each contain ham and spam folders. So, for instance, the directory of the folder you choose should look like this:
 
 ![image](https://user-images.githubusercontent.com/55290348/110878179-b653e480-82a8-11eb-9136-14226fe6c98c.png)
