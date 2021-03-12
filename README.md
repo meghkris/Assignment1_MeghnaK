@@ -10,7 +10,7 @@ Screenshot of Running Application: <br />
 ![image](https://user-images.githubusercontent.com/55290348/110877749-e2bb3100-82a7-11eb-8deb-e4a9ddaf3c21.png)
 
 Improvements: <br />
-I did make any improvements to the actual model as I got a pretty good accuracy and precision value when testing with the given data in Assignment1.zip.
+I did not make any improvements to the actual model as I got a pretty good accuracy and precision value when testing with the given data in Assignment1.zip.
 
 How To Run: <br />
 A window will pop up with two buttons: "Choose Directory" and "Display Results". First click "Choose Directory" and select the folder that contains the training and testing folders which each contain ham and spam folders. So, for instance, the directory of the folder you choose should look like this:
