@@ -10,7 +10,7 @@ Screenshot of Running Application: <br />
 ![image](https://user-images.githubusercontent.com/55290348/110877749-e2bb3100-82a7-11eb-8deb-e4a9ddaf3c21.png)
 
 Improvements: <br />
-I did not make any improvements to the actual model as I got a pretty good accuracy and precision value when testing with the given data in Assignment1.zip.
+I did not make any improvements to the actual model as I got a pretty good accuracy and precision value when testing with the given data in Assignment1.zip. However, one improvement that I did not know how to approach implementing could be to have a root word such as bike and count all instances of the word such as bike, biking, biked to the one index with the root word instead of each word having their own separate count.
 
 How To Run: <br />
 Make sure to compile all the java files and run Main.java which are all in a package together and can be found under Assignment1 - SpamFilter/src/sample/ after downloading and extracting the zip folder. The given data folder for Assignment 1 is also under the src folder. This program was created as an IntelliJ project so opening up Assignment1 - SpamFilter through IntelliJ and then building and running Main will be easier.
